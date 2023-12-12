@@ -16,7 +16,9 @@ Flujo Delegado General
   <img src="img_dg/perfil_dg.jpg" width="180" />
 </p>
 
+
 Flujo Delegado Actividad
+
 <p float="left">
   <img src="img_da/home_da.jpg" width="180" />
   <img src="img_da/detalle_da.jpg" width="180" />
@@ -28,3 +30,9 @@ Flujo Delegado Actividad
   <img src="img_da/alum_da.jpg" width="180" />
   <img src="img_da/donacion_da.jpg" width="180" />
 </p>
+
+
+Flujo Alumno
+
+
+
