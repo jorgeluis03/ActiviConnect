@@ -17,3 +17,14 @@ Flujo Delegado General
 </p>
 
 Flujo Delegado Actividad
+<p float="left">
+  <img src="home_da.jpg" width="180" />
+  <img src="detalle_da.jpg" width="180" />
+  <img src="chat.jpg" width="180" />
+  <img src="ruta_da.jpg" width="180" />
+  <img src="eventos_da.jpg" width="180" />
+  <img src="notifi_da.jpg" width="180" />
+  <img src="edit_da.jpg" width="180" />
+  <img src="alum_da.jpg" width="180" />
+  <img src="donacion_da.jpg" width="180" />
+</p>
