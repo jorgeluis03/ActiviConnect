@@ -18,13 +18,13 @@ Flujo Delegado General
 
 Flujo Delegado Actividad
 <p float="left">
-  <img src="home_da.jpg" width="180" />
-  <img src="detalle_da.jpg" width="180" />
-  <img src="chat.jpg" width="180" />
-  <img src="ruta_da.jpg" width="180" />
-  <img src="eventos_da.jpg" width="180" />
-  <img src="notifi_da.jpg" width="180" />
-  <img src="edit_da.jpg" width="180" />
-  <img src="alum_da.jpg" width="180" />
-  <img src="donacion_da.jpg" width="180" />
+  <img src="img_da/home_da.jpg" width="180" />
+  <img src="img_da/detalle_da.jpg" width="180" />
+  <img src="img_da/chat.jpg" width="180" />
+  <img src="img_da/ruta_da.jpg" width="180" />
+  <img src="img_da/eventos_da.jpg" width="180" />
+  <img src="img_da/notifi_da.jpg" width="180" />
+  <img src="img_da/edit_da.jpg" width="180" />
+  <img src="img_da/alum_da.jpg" width="180" />
+  <img src="img_da/donacion_da.jpg" width="180" />
 </p>
