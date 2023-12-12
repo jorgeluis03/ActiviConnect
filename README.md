@@ -5,15 +5,15 @@ gestionar los alumnos que apoyarán en la semana de ingeniería 2023 y cómo org
 
 Flujo Delegado General
 <p float="left">
-  <img src="home_dg.jpg" width="180" />
-  <img src="crear_dg.jpg" width="180" />
-  <img src="search_dg.jpg" width="180" />
-  <img src="alumregi_dg.jpg" width="180" />
-  <img src="alumban_dg.jpg" width="180" />
-  <img src="estadis_dg.jpg" width="180" />
-  <img src="donacion_dg.jpg" width="180" />
-  <img src="detalle_dg.jpg" width="180" />
-  <img src="perfil_dg.jpg" width="180" />
+  <img src="img_dg/home_dg.jpg" width="180" />
+  <img src="img_dg/crear_dg.jpg" width="180" />
+  <img src="img_dg/search_dg.jpg" width="180" />
+  <img src="img_dg/alumregi_dg.jpg" width="180" />
+  <img src="img_dg/alumban_dg.jpg" width="180" />
+  <img src="img_dg/estadis_dg.jpg" width="180" />
+  <img src="img_dg/donacion_dg.jpg" width="180" />
+  <img src="img_dg/detalle_dg.jpg" width="180" />
+  <img src="img_dg/perfil_dg.jpg" width="180" />
 </p>
 
 Flujo Delegado Actividad
